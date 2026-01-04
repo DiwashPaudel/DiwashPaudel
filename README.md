@@ -17,31 +17,27 @@
 
 ---
 
-### 🎯 Interests
+**🎯 Interests:**<br>
+Machine Learning • Deep Learning • NLP<br>
+Computer Vision • Data Science<br>
+Full-Stack Development • Cloud Computing
 
-`Machine Learning` `Deep Learning` `Natural Language Processing` `Computer Vision` `Data Science` `Full-Stack Development` `Cloud Computing`
-
-### 🌱 Currently Learning
-
-`Transformer Architectures` `MLOps` `Large Language Models`
-
----
-
-### 🛠️ Tech Stack
-
-**AI/ML:** `Python` `TensorFlow` `PyTorch` `scikit-learn` `Keras` `OpenCV`
-
-**Data Science:** `Pandas` `NumPy` `Jupyter` `Plotly`
-
-**Development:** `.NET` `C#` `JavaScript` `TypeScript` `React` `Next.js`
-
-**Cloud & DevOps:** `Azure` `Docker` `Git` `GitHub Actions`
+**🌱 Currently Learning:**<br>
+Transformer Architectures • MLOps • Large Language Models
 
 ---
 
-### 📜 Certifications
+## 🛠️ Tech Stack
 
-<p align="left">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,dotnet,cs,js,ts,react,nextjs,azure,docker,git&perline=7" />
+</p>
+
+---
+
+## 📜 Certifications
+
+<p align="center">
   <a href="https://credly.com/badges/d87ada1d-7d0a-4af9-a40e-7a43d1c6ace7"><img src="https://img.shields.io/badge/Azure_AI_Fundamentals-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/></a>
   <a href="https://credly.com/badges/dd9ce114-f505-41a7-871b-ee413f83adf7"><img src="https://img.shields.io/badge/Power_Platform-742774?style=for-the-badge&logo=power-automate&logoColor=white"/></a>
   <a href="https://credly.com/badges/7ac22a5a-861b-45ef-b534-0ce111377b9f"><img src="https://img.shields.io/badge/Azure_Data_Fundamentals-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/></a>
@@ -50,26 +46,23 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=DiwashPaudel&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DiwashPaudel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=DiwashPaudel&theme=tokyonight&hide_border=true&background=0D1117" height="170"/>
 </p>
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=DiwashPaudel&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiwashPaudel&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiwashPaudel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </p>
 
 ---
 
-### 📈 Contribution Graph
+## 📈 Contribution Graph
 
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DiwashPaudel&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DiwashPaudel&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%"/>
 </p>
 
 ---
