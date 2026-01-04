@@ -17,28 +17,9 @@
 
 ---
 
-### 🎯 Interests
+**🎯 Interests:** Machine Learning • Deep Learning • NLP • Computer Vision • Data Science • Full-Stack Development • Cloud Computing
 
-- 🤖 Machine Learning & Deep Learning
-- 💬 Natural Language Processing
-- 👁️ Computer Vision
-- 📊 Data Science & Analytics
-- 💻 Full-Stack Development
-- ☁️ Cloud Computing & DevOps
-
-### 🌱 Currently Learning
-
-- Transformer Architectures
-- MLOps
-- Large Language Models
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DiwashPaudel&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true" />
-</p>
+**🌱 Currently Learning:** Transformer Architectures • MLOps • Large Language Models
 
 ---
 
