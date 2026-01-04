@@ -16,32 +16,35 @@
 
 ```yaml
 name: Diwash Paudel
-located_in: Sydney, Australia 🇦🇺
-from: Nepal 🇳🇵
+located_in: Sydney, Australia
+from: Nepal
 
 current_role: Master's Student in IT @ Australian Catholic University
 company: Noble Idea Solution (3+ years)
 
 education:
-  - "Master's in Information Technology (AI/ML Focus)"
-  - "Bachelor's in Computer Science"
+  - Master's in Information Technology (AI/ML Focus)
+  - Bachelor's in Computer Science
 
 fields_of_interests:
-  - "Machine Learning & Deep Learning"
-  - "Natural Language Processing"
-  - "Computer Vision"
-  - "Data Science & Analytics"
-  - "Full-Stack Development"
+  - Machine Learning and Deep Learning
+  - Natural Language Processing
+  - Computer Vision
+  - Data Science and Analytics
+  - Full-Stack Development
 
 technical_background:
-  - "Neural Networks & Model Training"
-  - "Azure Cloud & DevOps"
-  - ".NET Core Development"
-  - "Database Optimization"
+  - Neural Networks and Model Training
+  - Azure Cloud and DevOps
+  - .NET Core Development
+  - Database Optimization
 
-currently_learning: ["Transformer Architectures", "MLOps", "Large Language Models"]
+currently_learning:
+  - Transformer Architectures
+  - MLOps
+  - Large Language Models
 
-fun_fact: "Started with 'Hello World', now training models that learn! 🚀"
+fun_fact: Started with Hello World, now training models that learn!
 ```
 
 ---
