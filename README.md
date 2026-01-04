@@ -1,6 +1,9 @@
-<![CDATA[<p align="center">
-  <img src="https://socialify.git.ci/DiwashPaudel/DiwashPaudel/image?font=Source%20Code%20Pro&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Dark" alt="DiwashPaudel" width="700" height="300" />
-</p>
+<![CDATA[<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+Diwash+Paudel" alt="Typing SVG" />
+</h1>
+
+<h3 align="center">AI & Machine Learning Enthusiast | Full-Stack Developer</h3>
+<h4 align="center">📍 Sydney, Australia</h4>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/diwash-paudel-43b4a6157/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -14,24 +17,20 @@
 
 ---
 
-```yaml
-name: Diwash Paudel
-located_in: Sydney, Australia
-from: Nepal
+### 🎯 Interests
 
-interests:
-  - Machine Learning and Deep Learning
-  - Natural Language Processing
-  - Computer Vision
-  - Data Science and Analytics
-  - Full-Stack Development
-  - Cloud Computing and DevOps
+- 🤖 Machine Learning & Deep Learning
+- 💬 Natural Language Processing
+- 👁️ Computer Vision
+- 📊 Data Science & Analytics
+- 💻 Full-Stack Development
+- ☁️ Cloud Computing & DevOps
 
-currently_learning:
-  - Transformer Architectures
-  - MLOps
-  - Large Language Models
-```
+### 🌱 Currently Learning
+
+- Transformer Architectures
+- MLOps
+- Large Language Models
 
 ---
 
