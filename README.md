@@ -17,9 +17,13 @@
 
 ---
 
-**🎯 Interests:** Machine Learning • Deep Learning • NLP • Computer Vision • Data Science • Full-Stack Development • Cloud Computing
+**🎯 Interests:**<br>
+Machine Learning • Deep Learning • NLP<br>
+Computer Vision • Data Science<br>
+Full-Stack Development • Cloud Computing
 
-**🌱 Currently Learning:** Transformer Architectures • MLOps • Large Language Models
+**🌱 Currently Learning:**<br>
+Transformer Architectures • MLOps • Large Language Models
 
 ---
 
