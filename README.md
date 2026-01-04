@@ -19,32 +19,18 @@ name: Diwash Paudel
 located_in: Sydney, Australia
 from: Nepal
 
-current_role: Master's Student in IT @ Australian Catholic University
-company: Noble Idea Solution (3+ years)
-
-education:
-  - Master's in Information Technology (AI/ML Focus)
-  - Bachelor's in Computer Science
-
-fields_of_interests:
+interests:
   - Machine Learning and Deep Learning
   - Natural Language Processing
   - Computer Vision
   - Data Science and Analytics
   - Full-Stack Development
-
-technical_background:
-  - Neural Networks and Model Training
-  - Azure Cloud and DevOps
-  - .NET Core Development
-  - Database Optimization
+  - Cloud Computing and DevOps
 
 currently_learning:
   - Transformer Architectures
   - MLOps
   - Large Language Models
-
-fun_fact: Started with Hello World, now training models that learn!
 ```
 
 ---
